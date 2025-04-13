@@ -5,7 +5,7 @@ I have experience in **Front-End** and **Back-End** development, and I'm eager t
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/antonio_ajb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonio_ajb@outlook.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/antonio_ajb/) [![email](https://img.shields.io/badge/Email-4479A1?logo=gmail&logoColor=white)](mailto:antonio_ajb@outlook.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%232c359f.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
