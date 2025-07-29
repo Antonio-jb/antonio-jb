@@ -1,7 +1,7 @@
 # 👾 About Me:
-✌️ Hi! I'm Antonio, a junior programmer passionate about software development and new technologies. I'm currently finishing my studies in Multiplatform Application Development and actively seeking my first professional opportunity in the programming world.
+✌️ Hi! I'm Antonio, a junior programmer passionate about software development and new technologies. I finished my studies in Multiplatform Application Development and am actively seeking my firsts professional opportunities in the programming world.
 
-I have experience in **Front-End** and **Back-End** development, and I'm eager to learn and grow as an application developer. Based in Madrid, Spain, I'm committed to creating innovative solutions that make a difference. 🚀<br>
+I have experience in both **Front-End** and **Back-End** development, and I'm eager to learn and grow as a software developer. Based in Madrid, Spain, I'm committed to creating innovative solutions that make a difference. 🚀<br>
 
 
 ## 🌐 Socials:
