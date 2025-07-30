@@ -5,7 +5,7 @@ I have experience in both **Front-End** and **Back-End** development, and I'm ea
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-4479A1?logo=gmail&logoColor=white)](mailto:antonio_ajb@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-jimenez-bellorin-a1027a29b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/antonio_ajb/)
+[![email](https://img.shields.io/badge/Email-4479A1?logo=gmail&logoColor=white)](mailto:antonio_ajb@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-jimenez-bellorin-a1027a29b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/antonio_ajb/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%232c359f.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
